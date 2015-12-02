@@ -126,8 +126,15 @@ function etu21 {
 	clear
 }
 function etu22 {
-	echo "travail de"
-	echo "mon asci art"
+	echo "Travail de Alex"
+	echo "CHU UN ARTISS"
+	echo "	  ||=============||    "	
+	echo "   ||               ||   "
+	echo "  ||      CHU        ||  "
+	echo " ||       UN          || "
+	echo "  ||    ARTISSSSS    ||  "
+	echo "   ||               ||   "
+	echo "    ||=============||    "
 	sleep $1
 	clear
 }
@@ -209,4 +216,4 @@ function prof {
 
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
 prof 1
-
+etu22 1
